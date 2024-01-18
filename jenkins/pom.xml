@@ -38,9 +38,8 @@
 			<plugin>
       <groupId>org.sonarsource.scanner.maven</groupId>
       <artifactId>sonar-maven-plugin</artifactId>
-      <version>3.10.0.2594</version>
+      <version>5.0.1.3006</version>
       <configuration>
-        <!-- Other SonarQube configurations -->
 
         <sonar.login>admin</sonar.login>
         <sonar.password>admin1</sonar.password>
