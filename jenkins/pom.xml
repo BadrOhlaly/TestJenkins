@@ -46,6 +46,12 @@
         <sonar.password>admin1</sonar.password>
       </configuration>
     </plugin>
+	<plugin>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-maven-plugin</artifactId>
+            <version>3.2.2</version> <!-- Use the latest version -->
+            <!-- Other plugin configurations -->
+        </plugin>
 		</plugins>
 	</build>
 
